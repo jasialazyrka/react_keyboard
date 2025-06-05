@@ -7,6 +7,6 @@
     "sourceMap": false,
     "types": ["node", "cypress"],
     "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
+    "allowSyntheticDefaultImports": true
   }
 }
